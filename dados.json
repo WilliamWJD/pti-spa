@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "image": "https://s2.glbimg.com/dOFKHQfqtZEqGTLm9dYDWAQG75M=/0x0:1280x800/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_1f540e0b94d8437dbbc39d567a1dee68/internal_photos/bs/2022/r/F/8mYkcQQNuwDZBx51XtiA/manjar-receita.jpg",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam eget arcu in nibh rutrum convallis. Fusce sit amet neque quis magna vestibulum accumsan id sed felis. Nunc et lobortis eros, dictum pellentesque est."
+    },
+    {
+        "id": 2,
+        "image": "https://s2.glbimg.com/e7Pq5xT_WC1su1Wu29Y7GClXYyg=/0x0:652x408/924x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2020/7/9/jeDVVATiAdAVd6CxfAZg/mousse-de-chocolate.jpg",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam eget arcu in nibh rutrum convallis. Fusce sit amet neque quis magna vestibulum accumsan id sed felis. Nunc et lobortis eros, dictum pellentesque est."
+    },
+    {
+        "id": 3,
+        "image": "https://www.receitasdecomidas.com.br/wp-content/uploads/2019/08/receitas-de-doces-Pudim-de-chocolate.jpg",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam eget arcu in nibh rutrum convallis. Fusce sit amet neque quis magna vestibulum accumsan id sed felis. Nunc et lobortis eros, dictum pellentesque est."
+    }
+]

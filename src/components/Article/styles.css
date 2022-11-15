@@ -1,0 +1,51 @@
+.articleContainer {
+    display: flex;
+    flex-direction: column;
+    max-width: 355px;
+    width: 100%;
+    padding: 10px;
+}
+
+.articleContainer strong {
+    font-size: 20px;
+    margin-top: 20px;
+    font-family: 'Roboto', sans-serif;
+    color: #3E3E3E;
+}
+
+.articleContainer p {
+    font-size: 15px;
+    margin-top: 10px;
+    color: #7D7D7D;
+    text-align: justify;
+    line-height: 20px;
+}
+
+.articleContainer img {
+    width: 100%;
+    height: 200px;
+    object-fit: contain;
+    border-radius: 30px;
+    align-self: center;
+}
+
+.articleContainer .buttonReadMore {
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+}
+
+.articleContainer .buttonReadMore svg {
+    margin-left: 10px;
+}
+
+.articleContainer .buttonReadMore a {
+    text-decoration: none;
+    color: #7D7D7D;
+    font-weight: 700;
+    transition: color 0.5s;
+}
+
+.articleContainer .buttonReadMore a:hover {
+    color: #3E3E3E;
+}
